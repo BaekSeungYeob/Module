@@ -1,0 +1,24 @@
+/* Font.01 디지털시계 - Jerome01 */
+@font-face { font-family: 'Jerome-font-01';	src: url("./디지털시계/DS-DIGI.eot"); src: url("./디지털시계/DS-DIGI.eot?#iefix") format("embedded-opentype"), url("./디지털시계/DS-DIGI.woff") format("woff"); font-weight: 100; font-style: normal; font-stretch: normal; }
+/* Font.02 배민_주아 - Jerome02 */
+@font-face { font-family: 'Jerome-font-02';	src: url("./배민_주아/BMJUA_ttf.eot"); src: url("./배민_주아/BMJUA_ttf.eot?#iefix") format("embedded-opentype"), url("./배민_주아/BMJUA_ttf.woff") format("woff"); font-weight: 100; font-style: normal; font-stretch: normal; }
+/* Font.03 배민_한나는11살 - Jerome03 */
+@font-face { font-family: 'Jerome-font-03';	src: url("./배민_한나는11살/BMHANNA_11yrs_ttf.eot"); src: url("./배민_한나는11살/BMHANNA_11yrs_ttf.eot?#iefix") format("embedded-opentype"), url("./배민_한나는11살/BMHANNA_11yrs_ttf.woff") format("woff"); font-weight: 100; font-style: normal; font-stretch: normal; }
+/* Font.04 디지털시계 - Jerome04 */
+@font-face { font-family: 'Jerome-font-04';	src: url("./DS-DIGI.eot"); src: url("./DS-DIGI.eot?#iefix") format("embedded-opentype"), url("./DS-DIGI.woff") format("woff"); font-weight: 100; font-style: normal; font-stretch: normal; }
+/* Font.05 디지털시계 - Jerome05 */
+@font-face { font-family: 'Jerome-font-05';	src: url("./DS-DIGI.eot"); src: url("./DS-DIGI.eot?#iefix") format("embedded-opentype"), url("./DS-DIGI.woff") format("woff"); font-weight: 100; font-style: normal; font-stretch: normal; }
+/* Font.06 디지털시계 - Jerome06 */
+@font-face { font-family: 'Jerome-font-06';	src: url("./DS-DIGI.eot"); src: url("./DS-DIGI.eot?#iefix") format("embedded-opentype"), url("./DS-DIGI.woff") format("woff"); font-weight: 100; font-style: normal; font-stretch: normal; }
+/* Font.07 디지털시계 - Jerome07 */
+@font-face {
+	font-family: 'Jerome-font-07';
+	src: url("./DS-DIGI.eot");
+	src: url("./DS-DIGI.eot?#iefix")
+		format("embedded-opentype"),
+		url("./DS-DIGI.woff") format("woff");
+	font-weight: 100;
+	font-style: normal;
+	font-stretch: normal;
+}
+
